@@ -1,0 +1,6 @@
+//Sample C program located in Develop1 branch
+#include<stdio.h>
+
+void main(string args[]) {
+  printf("Hello world!");
+}
